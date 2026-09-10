@@ -12,6 +12,9 @@
       <a class="md-button md-button--primary" href="https://canvas.illinois.edu/courses/67113">Canvas</a>
       <a class="md-button md-button--primary" href="https://campuswire.com/c/G70BCCBCC/feed/4">Campuswire</a>
     </div>
+    <div style="margin-top: 1.5rem; padding: 0.9rem 1.2rem; background: #0f172a; border: 1px solid #334155; border-radius: 8px; max-width: 58ch; font-size: 0.95rem; color: #ffffff;">
+      <span style="color: #ef4444; font-weight: bold; text-decoration: underline;">ATTENTION</span>: This is the new ECE 484 course site. You can find the deprecated site <a href="https://publish.illinois.edu/safe-autonomy/" target="_blank" rel="noopener" style="color: #93c5fd; text-decoration: underline; font-weight: 600;">here</a>.
+    </div>
   </div>
 </div>
 
