@@ -212,7 +212,7 @@
 
 | **Session No.** | **TA** | **CA** |
 | --- | --- | --- |
-| AB1 (10am-11am) | Eric Ji | Jimmy |
+| AB1 (10am-11am) | Eric Ji | JD |
 | AB2 (11am-12pm) | Yuxi Chen | Mira, Agastya |
 | AB3 (5pm-6pm) | Junsheng Huang | Allen |
 | AB4 (6pm-7pm) | Hanna Chen | Pranav |
