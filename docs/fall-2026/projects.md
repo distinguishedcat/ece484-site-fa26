@@ -1,5 +1,9 @@
 # Projects - Fall 2026
 
+<div style="margin-top: 1.5rem; margin-bottom: 1.5rem; padding: 0.9rem 1.2rem; background: #0f172a; border: 1px solid #334155; border-radius: 8px; font-size: 0.95rem; color: #ffffff;">
+  <span style="color: #ef4444; font-weight: bold; text-decoration: underline;">ATTENTION</span>: Final projects are in active development and this page is not yet a source of truth. We will announce when projects are finalized.
+</div>
+
 _Build something cool!_ We will provide  a suite of platforms and simulators  including the F1Tenth 1/10-scale autonomous racing platform, the Polaris GEM electric vehicle---a full-scale autonomous vehicle, the Crazyflie drone, and the GRAIC racing simulator. You will choose your project track in the first few weeks of the semester, and you will be working on it for the rest of the semester. Our awesome project mentors will be there to guide you along the way. You will have the opportunity to test your software on real hardware, and you will compete against other teams in a final competition at the end of the semester.
 
 
