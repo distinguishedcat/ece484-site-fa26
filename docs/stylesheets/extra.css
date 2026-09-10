@@ -140,19 +140,19 @@ body.sa-home .md-container {
 }
 
 .sa-schedule col.sa-schedule-col-date {
-  width: 12%;
+  width: 10%;
 }
 
 .sa-schedule col.sa-schedule-col-topic {
-  width: 25%;
+  width: 21%;
 }
 
 .sa-schedule col.sa-schedule-col-lab {
-  width: 10%;
+  width: 20.5%;
 }
 
 .sa-schedule col.sa-schedule-col-notes {
-  width: 10%;
+  width: 13%;
 }
 
 .sa-schedule th,
@@ -161,6 +161,14 @@ body.sa-home .md-container {
   border-bottom: 1px solid var(--md-typeset-table-color);
   text-align: left;
   vertical-align: top;
+}
+
+.sa-schedule th:first-child,
+.sa-schedule td:first-child,
+.sa-schedule td:nth-child(2),
+.sa-schedule td:nth-child(4),
+.sa-schedule td:nth-child(6) {
+  white-space: nowrap;
 }
 
 .sa-schedule thead th {
