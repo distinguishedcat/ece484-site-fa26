@@ -16,7 +16,7 @@ Additional resources will be posted here.
 
 [Git](https://docs.github.com/en/get-started/start-your-journey/hello-world) is a version-control tool that helps you manage code changes over time and collaborate reliably. A **repository** in git parlance is a version-controlled, shared, public or private folder. In this course you will work with two kinds of GitHub **repositories**: a release repo that contains the official starter code we publish for each MP, and your personal submission repo where you will do your work and turn it in. The basic workflow is: **clone** (download) the MPX release repo to get the starter files, copy those files into your submission repo on your computer, then as you make changes you repeatedly **add → commit** (save a snapshot with a message) → **push** (upload) to GitHub. Our graders will look at the latest version you have pushed to your submission repo, so pushing your commits is what actually submits your work.
 
-### Getting started with Github Org for ECE484 
+	### Getting started with Github Org for ECE484 
 
 You will have to do **Steps 1-4** at most once to setup your account and SSH key.
 
@@ -53,30 +53,3 @@ h. Click on _Configure SSO_ dropdown under your newly added key.
 i. Authorize for organization "safeautonomy-illinois-students". 
 
 Now you have an SSH key and you can use it to securely commit and push (save) code to the git repositories. The remaining steps are MP-specific. You will have to change the names for the specific MP.
-
-
-**Step 5** Clone the MP0 release repo
-	
-    ```git clone git@github.com:safeautonomy-illinois-students/fa26-mp0-release.git```
-
-**Step 6** Clone your submission repo
-
-	```git clone git@github.com:safeautonomy-illinois-students/fa26-mp0-ece484-YOUR_NETID.git```
-
-**Step 7** Copy release code into your submission repo
-
-**Step 8** Navigate to within your submission repo
-
-	```cd fa26-mp0-ece484-YOUR_NETID```
-
-**Step 9** Commit your files
-```
-	git status
-	git add -A
-	git commit -m "initial commit" # may need to specify user.email, user.name
-	git push
-```
-
-**Step 10** Verify your files are in your repository via the web browser: https://github.com/safeautonomy-illinois-students/fa26_ece484_YOUR_NETID
-
-When you are done with your MP. Make sure to "git add" all files you changed before creating a commit and pushing. 
