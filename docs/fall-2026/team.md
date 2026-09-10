@@ -22,7 +22,7 @@
 <table style="border-collapse:collapse; border:none;">
   <tr>
     <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/team_fa26/hanna.jpg" alt="Hanna Chen" class="team-avatar" width="160" height="160">
+      <img src="/ece484-site/images/team_fa26/hanna.jpg" alt="Hanna Chen" class="team-avatar" style="object-position: center 10%;" width="160" height="160">
     </td>
     <td style="border:none; padding:6px; text-align:center; background:none;">
       <img src="/ece484-site/images/team_fa26/yuxi.jpg" alt="Yuxi Chen" class="team-avatar" width="160" height="160">
