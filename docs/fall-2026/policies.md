@@ -42,6 +42,10 @@ Follow these rules  when using the lab machines:
 
 There will be 4 homework assignments (HW). The homework exercises are going to help you learn the mathematical concepts and prepare for the midterm exams. You will solve the homework problems individually and they are released and due alongside the MPs.
 
+## Late policy
+
+Late homework and MP submissions will receive a 20% penalty per day.
+
 ## Exams
 
 Three in-class, pencil-paper midterms will test you on core concepts. Sample exams may or may not be released, however, the exercises in the [course reader](/ece484-site/assets/pdfs/coursereader.pdf) and the homework will provide many practice problems.
