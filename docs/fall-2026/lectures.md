@@ -1,6 +1,6 @@
 # Lectures - Fall 2026
 
-[Course Reader](http://publish.illinois.edu/safe-autonomy/files/2023/08/Safe_Autonomy_Course_Reader.pdf) (.pdf)
+[Course Reader](/ece484-site/assets/pdfs/fall-2026/Safe_Autonomy_Course_Reader.pdf) (.pdf)
 
 ## Lectures, MT, MPs
 
@@ -35,12 +35,12 @@
       <td>08/25</td>
       <td>Overview / Intro to Safety 
        <br>
-      <a href="http://publish.illinois.edu/safe-autonomy/files/2026/08/Fall26_Lecture1_Overview.pdf">slides</a>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture1_Overview.pdf">slides</a>
       </td>
       <td>08/27</td>
       <td>Safety 2: verification concepts, automata, requirements, counter-examples 
       <br>
-      <a href="http://publish.illinois.edu/safe-autonomy/files/2026/08/Fall26_Lecture2_Safety.pdf">slides</a>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture2_Safety.pdf">slides</a>
       </td>
       <td>08/28</td>
       <td>Intro, MP0 walkthrough
@@ -50,11 +50,11 @@
     <tr>
       <td>2</td>
       <td>09/01</td>
-      <td>Safety 3: reachability, inductive invariants <br><a href="http://publish.illinois.edu/safe-autonomy/files/2026/09/Fall26_Lecture3_Safety.pdf">slides</a></td>
+      <td>Safety 3: reachability, inductive invariants <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture3_Safety.pdf">slides</a></td>
       <td>09/03</td>
       <td>Perception 1: neural networks, backpropagation, gradient descent 
       <br>
-      <a href="http://publish.illinois.edu/safe-autonomy/files/2026/09/Fall26_Lecture4_perceptionNN.pdf">slides</a>      
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture4_perceptionNN.pdf">slides</a>      
       </td>
       <td>09/04</td>
       <td>Team formation, MP1 walkthrough</td>
@@ -65,11 +65,11 @@
       <td>09/08</td>
       <td>Perception 2: NN architecture, coordinate transformations, homogeneous coordinates
       <br>
-      <a href="http://publish.illinois.edu/safe-autonomy/files/2026/09/Fall26_Lecture5_NNarch_Camera.pdf">slides</a></td>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture5_NNarch_Camera.pdf">slides</a></td>
       <td>09/10</td>
       <td>Perception 3: intrinsic, extrinsic matrices, calibration, perspective, projection, eigenvalue problem
       <br>
-      <a href="http://publish.illinois.edu/safe-autonomy/files/2026/09/Fall26_Lecture6_Camera.pdf">slides</a></td>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture6_Camera.pdf">slides</a></td>
       <td>09/11</td>
       <td>MP0 Demo (MP0 Due)</td>
       <td>–</td>

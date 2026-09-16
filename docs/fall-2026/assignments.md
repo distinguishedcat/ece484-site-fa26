@@ -12,7 +12,7 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
     <p>First, setup ECE484 Github following the steps <a href="/ece484-site/fall-2026/resources/#github">here</a>.</p>
     <ul>
       <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp0-release/tree/main">Code</a></li>
-      <li><a href="http://publish.illinois.edu/safe-autonomy/files/2026/08/MP0_Dev_Fall2026.pdf">Docs</a></li>
+      <li><a href="/ece484-site/assets/pdfs/fall-2026/MP0_Dev_Fall2026.pdf">Docs</a></li>
       <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp0-release/blob/main/docs/ECE484_FA26_MP0_Walkthrough.pptx">Walkthrough slides</a></li>
     </ul>
   </div>
