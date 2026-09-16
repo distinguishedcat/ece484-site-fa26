@@ -77,7 +77,9 @@
     <tr>
       <td>4</td>
       <td>09/15</td>
-      <td>Perception 4: depth estimation, visual odometry, fundamental matrix, epipolar geometry</td>
+      <td>Perception 4: depth estimation, visual odometry, fundamental matrix, epipolar geometry
+      <br>
+      <a href="http://publish.illinois.edu/safe-autonomy/files/2026/09/Fall26_Lecture7_Stereo.pdf">slides</a></td>
       <td>09/17</td>
       <td>Control 1: ODEs, lipschitz contuinity, bang-bang control</td>
       <td>09/18</td>
