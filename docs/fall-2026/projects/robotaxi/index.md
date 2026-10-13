@@ -40,6 +40,7 @@ Your implementation should cover the following modules:
 | 5 |  | Full system (IRL) | Integrate and test the complete system with stop signs/traffic cones for all initial parking locations |
 | 6 |  | Pedestrian Detection | (Groups of 4) Integrate pedestrian detection where the vehicle must wait for two pedestrians to separately cross the track before proceeding |
 | 7 | Final presentation | Product launch | Final demo at the end of the semester and launch project site |
+
 ## Bonus Points
 
 - Drive around an obstacle while staying inside the drivable region
