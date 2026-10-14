@@ -128,7 +128,10 @@
     <tr>
       <td>8</td>
       <td>10/13</td>
-      <td>Filtering 1: Markov chains, conditional probability, motion models</td>
+      <td>Filtering 1: Markov chains, conditional probability, motion models
+      <br>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture11_Localization.pdf">slides</a>
+      </td>
       <td>10/15</td>
       <td>Filtering 2: localization bayes filter, histogram filter, beliefs</td>
       <td>10/16</td>
