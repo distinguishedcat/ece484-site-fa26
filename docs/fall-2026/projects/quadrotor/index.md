@@ -106,5 +106,4 @@ Please direct all questions to the project Slack (link on CampusWire).
 
 ## References
 
-The repository below will have an update on 10/14. 
 [Repository](https://github.com/safeautonomy-illinois-students/fa26-drone-track-release)
