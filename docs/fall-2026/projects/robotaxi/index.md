@@ -33,9 +33,9 @@ Your implementation should cover the following modules:
 
 | # | Time | Milestone | Description |
 |---|------|-----------|-------------|
-| 1 |  | Setup | Setup simulator and become familiar with it. |
-| 2 |  Project Pitch | Simulation | Develop and test all software modules in the GEM simulator |
-| 3 |  | Lane following (IRL) | Integrate and test the lane-following controller on the physical vehicle |
+| 1 |  | Setup | Become comfortable working with GEM hardware and software setup |
+| 2 |  Project Pitch | Demo |Run and become familiar with the GPS waypoint-following demo code |
+| 3 | Milestone Check-In | Lane following | Integrate and test the lane-following controller on the physical vehicle |
 | 4 |  | Stop Sign Detection | Integrate the stop sign detector and controller that brings the vehicle to a full stop before proceeding.  |
 | 5 |  | Full system (IRL) | Integrate and test the complete system with stop signs/traffic cones for all initial parking locations |
 | 6 |  | Pedestrian Detection | (Groups of 4) Integrate pedestrian detection where the vehicle must wait for two pedestrians to separately cross the track before proceeding |
