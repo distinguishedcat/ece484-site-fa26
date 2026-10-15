@@ -133,7 +133,10 @@
       <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture11_Localization.pdf">slides</a>
       </td>
       <td>10/15</td>
-      <td>Filtering 2: localization bayes filter, histogram filter, beliefs</td>
+      <td>Filtering 2: localization bayes filter, histogram filter, beliefs
+      <br>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture12_Localization.pdf">slides</a>
+      </td>
       <td>10/16</td>
       <td>MP3 Walkthrough slides</td>
       <td>MP3 released</td>
@@ -151,9 +154,13 @@
     <tr>
       <td>10</td>
       <td>10/27</td>
-      <td>Filtering 3: Kalman filter, localization particle filter, importance sampling</td>
+      <td>Filtering 3: Kalman filter, localization particle filter, importance sampling
+      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26-Lecture13_localization.pdf">slides</a> -->
+      </td>
       <td>10/29</td>
-      <td>Filtering 4: review; SLAM</td>
+      <td>Filtering 4: review; SLAM
+      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26-Lecture14_SLAM.pdf">slides</a> -->
+      </td>
       <td>10/30</td>
       <td>Open Lab</td>
       <td>–</td>
@@ -171,9 +178,13 @@
     <tr>
       <td>12</td>
       <td>11/10</td>
-      <td>Planning 1: graph search, uniform cost search</td>
+      <td>Planning 1: graph search, uniform cost search
+      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26-Lecture15_search_plan.pdf">slides</a> -->
+      </td>
       <td>11/12</td>
-      <td>Planning 2: A*, optimal search, cost-to-go heuristics</td>
+      <td>Planning 2: A*, optimal search, cost-to-go heuristics
+      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture16_Aplan.pdf">slides</a> -->
+      </td>
       <td>11/13</td>
       <td>MP3 Demo (MP3 due)</td>
       <td>–</td>
@@ -181,9 +192,13 @@
     <tr>
       <td>13</td>
       <td>11/17</td>
-      <td>Planning 3: hybrid A*, PRM, probabilistic completeness</td>
+      <td>Planning 3: hybrid A*, PRM, probabilistic completeness
+      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture17_HybridAStar_PRM.pdf">slides</a> -->
+      </td>
       <td>11/19</td>
-      <td>Planning 4: RRT, RRG, asymptotic optimality</td>
+      <td>Planning 4: RRT, RRG, asymptotic optimality
+      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26-Lecture18_rrt.pdf">slides</a> -->
+      </td>
       <td>11/20</td>
       <td>Open Lab</td>
       <td>–</td>

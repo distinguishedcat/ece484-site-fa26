@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .DS_Store
 spring-2026-lecture-schedule.csv
+preview.sh
